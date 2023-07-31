@@ -1,0 +1,9 @@
+com\mycompany\peppertruck\igu\Productos.class
+com\mycompany\peppertruck\logica\Bebidas.class
+com\mycompany\peppertruck\logica\Comida.class
+com\mycompany\peppertruck\logica\Productos.class
+com\mycompany\peppertruck\PepperTruck.class
+com\mycompany\peppertruck\igu\Home.class
+com\mycompany\peppertruck\logica\ControladoraLogica.class
+com\mycompany\peppertruck\persistencia\ControladoraPersistencia.class
+com\mycompany\peppertruck\logica\Promos.class
